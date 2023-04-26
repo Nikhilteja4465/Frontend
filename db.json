@@ -1,0 +1,49 @@
+{
+  "LaptopDetails": [
+    {
+      "_id": "6446ccd5eaa453bc5aa8295a",
+      "productName": "Huawei MateBook X Pro",
+      "serialNo": "1BDZXR2",
+      "ReleaseDate": "2020-02-10T05:00:00.000Z",
+      "price": 1500,
+      "URL": "https://consumer.huawei.com/en/tablets/matepad-pro-11/",
+      "published": true
+    },
+    {
+      "_id": "6446d0d4eaa453bc5aa8295d",
+      "productName": "Dell Inspiron 15",
+      "serialNo": "1BDZVR2",
+      "ReleaseDate": "2015-05-10T04:00:00.000Z",
+      "price": 750,
+      "URl": "https://www.dell.com/en-us/shop/cty/pdp/spd/inspiron-15-3520-laptop/nn3520ftech?gacd=9684992-1096-5761040-350588223-0&dgc=st&gclid=CjwKCAjw0ZiiBhBKEiwA4PT9z2Gi3bGGxjK9GJtdacZQEq8qO1EydU_JC55fEZcgkBfkBTEKNjZCEhoCoN4QAvD_BwE&gclsrc=aw.ds&nclid=IjSEzjrtmatyTq6OPsA073DgiOEF2YfEAv2nevNWIxLitOH1FuNlYj2wmEmYKBXW",
+      "published": true
+    },
+    {
+      "_id": "6446e70ade02bcf39ef8fee2",
+      "productName": "Apple MacBook Pro",
+      "serialNo": "1ND34A",
+      "ReleaseDate": "2020-08-10T04:00:00.000Z",
+      "price": 1350,
+      "URl": "https://www.apple.com/shop/buy-mac/macbook-pro/13-inch-space-gray-apple-m2-chip-with-8-core-cpu-and-10-core-gpu-256gb?afid=p238%7CsIsUr6eJg-dc_mtid_1870765e38482_pcrid_652759409002_pgrid_146259541814_pntwk_g_pchan_local_pexid__&cid=aos-us-kwgo-pla-mac_lia--slid---product-MNEH3LL/A",
+      "published": true
+    },
+    {
+      "_id": "6446e7b7de02bcf39ef8fee3",
+      "productName": "Asus ZenBook ",
+      "serialNo": "2KH34B",
+      "ReleaseDate": "2018-01-29T05:00:00.000Z",
+      "price": 800,
+      "URl": "https://shop.asus.com/us/90nb0z92-m00540-asus-zenbook-s-13-oled-ux5304.html",
+      "published": true
+    },
+    {
+      "_id": "6446e8b6de02bcf39ef8fee4",
+      "productName": "HP Envy",
+      "serialNo": "3GH24B1",
+      "ReleaseDate": "2019-09-19T04:00:00.000Z",
+      "price": 899,
+      "URL": "https://www.hp.com/us-en/shop/pdp/hp-envy-laptop-17-cr0747nr?intel=11gi7&a=1&jumpid=cs_con_nc_ns&utm_medium=cs&utm_source=ga&utm_campaign=HP-Store_US_All_PS_CPS_Hgm_Intel_CCF_Google_All_Smart-PLA&utm_content=sp&adid=536363203830&addisttype=u&6P700UA%23ABA&cq_src=google_ads&cq_cmp=14079115092&cq_con=125723649255&cq_term=&cq_med=&cq_plac=&cq_net=u&cq_pos=&cq_plt=gp&gclid=CjwKCAjw0ZiiBhBKEiwA4PT9zycbeKoawY4XCFups-kETQ1LOYcKFGrkjgfadyWKQAeFrXWthiCUERoCn9EQAvD_BwE&gclsrc=aw.ds",
+      "published": true
+    }
+  ]
+}
